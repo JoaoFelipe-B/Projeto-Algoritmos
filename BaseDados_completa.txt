@@ -1,3 +1,11 @@
+===
+
+Essa base de dados contém tudo que está presente na apresentação em um só arquivo. Para acessá-los separadamente, visitar o seguinte link: 
+https://github.com/JoaoFelipe-B/Base_de_dados.git
+
+===
+
+
 Pontos Turísticos escolhidos
 
 Acre: Rio Branco, Parque Estadual Chandless, Parque Nacional da Serra do Divisor, Parque Ambiental Chico Mendes
@@ -51,6 +59,9 @@ Sergipe: Aracaju, Praia do Atalaia, Grota do Angico, Museu de Gente Sergipana.
 Tocantins: Palmas, Cachoeira da Velha, Dunas do Jalapão, Serra do Espírito Santo.
 
 Pará: Belém, Atalaia, Ilha do Pesqueiro, Ilha do Amor
+
+
+
 
 Relacionando números com os pontos turísticos para facilitar visualização
 
@@ -184,6 +195,8 @@ Relacionando números com os pontos turísticos para facilitar visualização
 103 - Ilha do Pesqueiro
 104 - Ilha do Amor
 
+
+Base de dados final
 Modelo - [numEquivalente1, numEquivalente2, peso]
     
     # Acre
