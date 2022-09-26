@@ -1,0 +1,434 @@
+Pontos Turísticos escolhidos
+
+Acre: Rio Branco, Parque Estadual Chandless, Parque Nacional da Serra do Divisor, Parque Ambiental Chico Mendes
+
+Alagoas: Maceió, Piranhas, Praia do Gunga, Praia de Maragogi.
+
+Amapá: Macapá, Monte Mitaraca, Fortaleza de São José de Macapá, Parque Nacional do Cabo Orange.
+
+Amazonas: Manaus, Parque Nacional de Anavilhanas, Parque Nacional de Jaú, Encontro das Águas.
+
+Bahia: Salvador, Parque Nacional da Chapada Diamantina, Taipus de Fora, Elevador Lacerda.
+
+Ceará: Fortaleza, Serra de Maranguape, Praia das Fontes, Praia de Iracema.
+
+Espírito Santo: Vitória, Parque Estadual da Pedra Azul, Pico da Bandeira, Praia da Bacutia.
+
+Goiás: Goiânia, Parque Nacional da Chapada dos Veadeiros, Caldas Novas, Cachoeira do Segredo.
+
+Maranhão: São Luís, Imperatriz, Parque Nacional dos Lençóis Maranhenses, Parque Nacional da Chapada das Mesas.
+
+Mato Grosso: Cuiabá, Parque Nacional do Pantanal Mato-Grossense, Parque Nacional da Chapada dos Guimarães, Aquário Encantado.
+
+Mato Grosso do Sul: Campo Grande, Gruta do Lago Azul, Rio Sucuri, Estância Mimosa.
+
+Minas Gerais: Belo Horizonte, Instituto Inhotim, Parque Nacional da Serra da Canastra, Parque Nacional da Serra do Cipó.
+
+Paraíba: João Pessoa, Areia, Praia do Bessa, Praia de Coqueirinho.
+
+Paraná: Curitiba, Lapa, Ilha do mel, Antonina.
+
+Pernambuco: Recife, UFPE, Feira de Caruaru, Porto de Galinhas.
+
+Piauí: Teresina, Delta do Rio Parnaíba, Lagoa do Portinho, Pedra do Sal.
+
+Rio de Janeiro: Rio de Janeiro, Maracanã, Pão de Açucar, Copacabana.
+
+Rio Grande do Norte: Natal, Praia do Amor, Guga Park, Lagoa Nova.
+
+Rio Grande do Sul: Porto Alegre, Parque do Caracol, Snowland, Praia do Cassino.
+
+Rondônia: Porto Velho, Chácara Recanto da Paz, Vale das Cachoeiras, Forte príncipe da beira.
+
+Roraima: Boa Vista, Serra da Mocidade, Monumento Garimpeiro, Lago do Robertinho.
+
+Santa Catarina: Florianópolis, Beto Carrero, Praia Mole, Praia da Joaquina.
+
+São Paulo: São Paulo, Fábrica de Chocolate, Praia de Santos, Zoológico de SP.
+
+Sergipe: Aracaju, Praia do Atalaia, Grota do Angico, Museu de Gente Sergipana.
+
+Tocantins: Palmas, Cachoeira da Velha, Dunas do Jalapão, Serra do Espírito Santo.
+
+Pará: Belém, Atalaia, Ilha do Pesqueiro, Ilha do Amor
+
+Relacionando números com os pontos turísticos para facilitar visualização
+
+1 - Rio Branco
+2 - Parque Estadual Chandless
+3 - Parque Nacional da Serra do Divisor
+4 - Parque Ambiental Chico Mendes
+
+5 - Maceió
+6 - Piranhas
+7 - Praia do Gunga
+8 - Praia de Maragogi
+
+9 - Macapá
+10 - Monte Mitaraca
+11 - Fortaleza de São José de Macapá
+12 - Parque Nacional do Cabo Orange
+
+13 - Manaus
+14 - Parque Nacional de Anavilhanas
+15 - Parque Nacional de Jaú
+16 - Encontro das Águas
+
+17 - Salvador
+18 - Parque Nacional da Chapada Diamantina
+19 - Taipus de Fora
+20 - Elevador Lacerda
+
+21 - Fortaleza
+22 - Serra de Maranguape
+23 - Praia das Fontes
+24 - Praia de Iracema
+
+25 - Vitória
+26 - Parque Estadual da Pedra Azul
+27 - Pico da Bandeira
+28 - Praia da Bacutia
+
+29 - Goiânia
+30 - Parque Nacional da Chapada dos Veadeiros
+31 - Caldas Novas
+32 - Cachoeira do Segredo
+
+33 - São Luís
+34 - Imperatriz
+35 - Parque Nacional dos Lençóis Maranhenses
+36 - Parque Nacional da Chapada das Mesas
+
+37 - Cuiabá
+38 - Parque Nacional do Pantanal Mato-Grossense
+39 - Parque Nacional da Chapada dos Guimarães
+40 - Aquário Encantado
+
+41 - Campo Grande
+42 - Gruta do Lago Azul
+43 - Rio Sucuri
+44 - Estância Mimosa
+
+45 - Belo Horizonte
+46 - Instituto Inhotim
+47 - Parque Nacional da Serra da Canastra
+48 - Parque Nacional da Serra do Cipó
+
+49 - João Pessoa
+50 - Areia
+51 - Praia do Bessa
+52 - Praia de Coqueirinho
+
+53 - Curitiba
+54 - Lapa
+55 - Ilha do mel
+56 - Antonina
+
+57 - Recife
+58 - UFPE
+59 - Feira de Caruaru
+60 - Porto de Galinhas
+
+61 - Teresina
+62 - Delta do Rio Parnaíba
+63 - Lagoa do Portinho
+64 - Pedra do Sal
+
+65 - Rio de Janeiro
+66 - Maracanã
+67 - Pão de Açucar
+68 - Copacabana
+
+69 - Natal
+70 - Praia do Amor
+71 - Guga Park
+72 - Lagoa Nova
+
+73 - Porto Alegre
+74 - Parque do Caracol
+75 - Snowland
+76 - Praia do Cassino
+
+77 - Porto Velho
+78 - Chácara Recanto da Paz
+79 - Vale das Cachoeiras
+80 - Forte príncipe da beira
+
+81 - Boa Vista
+82 - Alto Alegre
+83 - Monumento Garimpeiro
+84 - Lago do Robertinho
+
+85 - Florianópolis
+86 - Beto Carrero
+87 - Praia Mole
+88 - Praia da Joaquina
+
+89 - São Paulo
+90 - Fábrica de Chocolate
+91 - Praia de Santos
+92 - Zoológico de SP
+
+93 - Aracaju
+94 - Praia do Atalaia
+95 - Grota do Angico
+96 - Museu de Gente Sergipana
+
+97 - Palmas
+98 - Cachoeira da Velha
+99 - Dunas do Jalapão
+100 - Serra do Espírito Santo
+
+101 - Belém
+102 - Atalaia
+103 - Ilha do Pesqueiro
+104 - Ilha do Amor
+
+Modelo - [numEquivalente1, numEquivalente2, peso]
+    
+    # Acre
+    [4, 1, 7.8],
+    [4, 2, 9],
+    [2, 3, 620.5],
+    [1, 3, 615],
+
+    # Alagoas
+    [7, 5, 38.4],
+    [7, 8, 155],
+    [5, 6, 266],
+    [8, 6, 357],
+
+    # Amapá
+    [9, 12, 437],
+    [9, 11, 1.6],
+    [11, 10, 297.1],
+    [12, 10, 272],
+
+    # Amazonas
+    [13, 16, 17],
+    [13, 15, 303],
+    [15, 14, 379.2],
+    [16, 14, 660.7],
+
+    # Bahia
+    [17, 20, 1.7],
+    [17, 19, 268],
+    [19, 18, 1673],
+    [20, 18, 1829],
+
+    # Ceará
+    [21, 24, 2.3],
+    [21, 23, 86.6],
+    [23, 22, 99.1],
+    [24, 22, 32.2],
+
+    # Espírito Santo
+    [25, 28, 59.5],
+    [25, 26, 92.1],
+    [26, 27, 147],
+    [28, 27, 223],
+
+    # Goiás
+    [32, 30, 63.2],
+    [32, 31, 541],
+    [31, 29, 160],
+    [30, 29, 422],
+
+    # Maranhão
+    [35, 33, 248],
+    [35, 34, 760],
+    [34, 36, 182.2],
+    [33, 36, 605],
+
+    # Mato Grosso
+    [39, 40, 98.8],
+    [39, 37, 66.5],
+    [37, 38, 270],
+    [38, 40, 374.8],
+
+    # Mato Grosso do Sulva
+    [41, 44, 277],
+    [41, 42, 281],
+    [42, 43, 16.6],
+    [43, 44, 43.6],
+
+    # Minas Gerais
+    [45, 47, 341],
+    [45, 46, 48.6],
+    [46, 48, 138],
+    [47, 48, 431],
+
+    # Paraíba
+    [51, 52, 100],
+    [51, 49, 9.1],
+    [52, 50, 117],
+    [49, 50, 128],
+
+    # Paraná
+    [55, 56, 79.1],
+    [55, 53, 119],
+    [56, 54, 144],
+    [53, 54, 69.8],
+
+    # Pernambuco
+    [57, 58, 9.7],
+    [57, 60, 61.2],
+    [58, 59, 144],
+    [60, 59, 162],
+
+    # Piauí
+    [62, 64, 18],
+    [62, 63, 11],
+    [64, 61, 334],
+    [63, 61, 313],
+
+    # Rio de Janeiro
+    [67, 68, 6],
+    [67, 65, 9.5],
+    [68, 66, 13.5],
+    [65, 66, 6.2],
+
+    # Rio Grande do Norte
+    [70, 69, 61, 2],
+    [70, 71, 59, 2],
+    [69, 72, 162],
+    [71, 72, 140],
+
+    # Rio Grande do Sul
+    [74, 75, 15.8],
+    [74, 73, 106],
+    [75, 76, 407],
+    [73, 76, 308],
+
+    # Rondônia
+    [79, 77, 363],
+    [79, 78, 241],
+    [77, 80, 551],
+    [78, 80, 726],
+
+    # Roraíma
+    [83, 81, 0.3],
+    [83, 84, 49.8],
+    [81, 82, 83.7],
+    [84, 82, 114],
+
+    # Santa Catarina
+    [87, 85, 11.4],
+    [87, 88, 3.6],
+    [85, 86, 110],
+    [88, 86, 123],
+
+    # São Paulo
+    [91, 89, 81.2],
+    [91, 92, 74.6],
+    [89, 90, 42.9],
+    [92, 90, 51.5],
+
+    # Sergipe
+    [94, 93, 7.9],
+    [94, 96, 7.7],
+    [93, 95, 218],
+    [96, 95, 220],
+
+    # Tocatins
+    [100, 98, 111],
+    [100, 99, 27.2],
+    [98, 97, 240],
+    [99, 97, 274],
+
+    # Pará
+    [102, 101, 219],
+    [102, 103, 305],
+    [101, 104, 1188],
+    [103, 104, 1292],
+
+    # Nordeste
+    [57, 49, 115],
+    [57, 33, 1500],
+    [57, 61, 1111],
+    [57, 17, 798],
+    [57, 69, 285],
+    [57, 21, 744],
+    [57, 93, 490],
+    [57, 5, 248],
+    [33, 61, 429],
+    [33, 21, 806],
+    [33, 69, 1289],
+    [33, 49, 1415],
+    [33, 5, 1527],
+    [33, 93, 1462],
+    [33, 17, 1565],
+    [61, 21, 570],
+    [61, 69, 964],
+    [61, 49, 1066],
+    [61, 5, 1102],
+    [61, 93, 1037],
+    [61, 17, 1138],
+    [21, 69, 509],
+    [21, 49, 636],
+    [21, 5, 878],
+    [21, 93, 982],
+    [21, 17, 1136],
+    [69, 49, 177],
+    [69, 5, 531],
+    [69, 93, 714],
+    [69, 17, 1019],
+    [5, 93, 242],
+    [5, 17, 556],
+    [5, 49, 361],
+    [49, 17, 893],
+    [49, 93, 587],
+    [17, 93, 316],
+
+    # Suldeste
+    [89, 65, 451],
+    [89, 45, 580],
+    [89, 25, 885],
+    [65, 45, 447],
+    [65, 25, 543],
+    [25, 45, 511],
+
+    # Norte
+    [13, 101, 2984],
+    [13, 1, 1395],
+    [13, 77, 888],
+    [13, 81, 738],
+    [13, 9, 2982],
+    [13, 97, 2924],
+    [101, 1, 2999],
+    [101, 77, 2492],
+    [101, 81, 222],
+    [101, 9, 5963],
+    [101, 97, 1129],
+    [1, 77, 508],
+    [1, 81, 2130],
+    [1, 9, 4374],
+    [1, 97, 2796],
+    [77, 81, 1623],
+    [77, 9, 3867],
+    [77, 97, 2290],
+    [81, 9, 2262],
+    [81, 97, 3659],
+    [9, 97, 3658],
+
+    # Centro-Oeste
+    [37, 41, 781],
+    [37, 29, 885],
+    [41, 29, 827],
+
+    # Sul
+    [73, 85, 474],
+    [73, 53, 683],
+    [53, 85, 302],
+
+    # Inter-Regionais
+    [57, 89, 2572],
+    [57, 13, 4571],
+    [57, 29, 2171],
+    [57, 73, 3651],
+    [13, 29, 3027],
+    [13, 89, 3849],
+    [13, 73, 4420],
+    [89, 29, 939],
+    [89, 73, 1079],
+    [29, 73, 1791]
